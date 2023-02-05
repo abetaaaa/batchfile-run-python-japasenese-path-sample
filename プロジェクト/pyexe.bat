@@ -1,0 +1,1 @@
+python C:/プロジェクト/プログラム/hello.py
